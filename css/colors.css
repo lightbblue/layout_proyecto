@@ -1,5 +1,14 @@
 :root{
     --texto-1: rgb(255, 255, 255);
     --texto-2: rgb(0, 0, 0);
-    --principal-1: rgb(0, 95, 248);
+    --texto-3: rgb(110, 114, 247);
+    --texto-4: rgb(26, 195, 211);
+    --texto-5: rgb(248, 177, 68);
+    --texto-6: rgb(101, 179, 252);
+    --texto-7: rgb(197, 197, 197);
+    --texto-8: rgb(115, 115, 115);
+
+    --principal-1: rgb(5, 93, 245);
+    --principal-2: rgb(250, 250, 250);
+    --principal-3: rgb(255, 255, 255);
 }

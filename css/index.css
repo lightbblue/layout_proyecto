@@ -16,6 +16,17 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    .fondo{
+        filter: saturate(150%);
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        object-position: center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 0;
+    }
     .desc{
         width: 15rem;
         display: flex;
@@ -53,18 +64,6 @@ body{
             transition: all .3s;
         }
     }
-}
-
-.fondo{
-    filter: saturate(150%);
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-    object-position: center;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 0;
 }
 
 @media (orientation=landscape){
