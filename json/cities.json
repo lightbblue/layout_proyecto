@@ -1,0 +1,106 @@
+[
+    {
+      "name": "London",
+      "price": 2000,
+      "rating": 4.5,
+      "temperature": 16,
+      "duration": 5,
+      "description": "Historic city with a rich culture. Visit the iconic Big Ben, explore Buckingham Palace, and enjoy the multicultural cuisine."
+    },
+    {
+      "name": "Paris",
+      "price": 1800,
+      "rating": 4.8,
+      "temperature": 18,
+      "duration": 7,
+      "description": "The City of Love awaits with the Eiffel Tower, the Louvre, and delicious croissants."
+    },
+    {
+      "name": "Rome",
+      "price": 1500,
+      "rating": 4.7,
+      "temperature": 22,
+      "duration": 6,
+      "description": "Explore the Colosseum, the Trevi Fountain, and delight in pasta and pizza."
+    },
+    {
+      "name": "New York",
+      "price": 2500,
+      "rating": 4.6,
+      "temperature": 10,
+      "duration": 8,
+      "description": "The city that never sleeps offers Times Square, the Statue of Liberty, and a vibrant nightlife."
+    },
+    {
+      "name": "Tokyo",
+      "price": 3000,
+      "rating": 4.9,
+      "temperature": 25,
+      "duration": 10,
+      "description": "Immerse yourself in Japanese culture, visit the Meiji Shrine and try sushi."
+    },
+    {
+      "name": "Barcelona",
+      "price": 1600,
+      "rating": 4.4,
+      "temperature": 20,
+      "duration": 4,
+      "description": "Enjoy Gaudí's architecture, relax on Barceloneta beach and try paella."
+    },
+    {
+      "name": "Sydney",
+      "price": 2800,
+      "rating": 4.8,
+      "temperature": 22,
+      "duration": 9,
+      "description": "Visit the Sydney Opera House, explore the harbour and enjoy the beaches."
+    },
+    {
+      "name": "Rio de Janeiro",
+      "price": 1700,
+      "rating": 4.5,
+      "temperature": 28,
+      "duration": 7,
+      "description": "Enjoy Carnival, visit Christ the Redeemer and relax on Copacabana and Ipanema beaches."
+    },
+    {
+      "name": "Marrakech",
+      "price": 1200,
+      "rating": 4.3,
+      "temperature": 25,
+      "duration": 5,
+      "description": "Explore the Medina, visit the Koutoubia Mosque and try tagine."
+    },
+    {
+      "name": "Budapest",
+      "price": 1400,
+      "rating": 4.6,
+      "temperature": 15,
+      "duration": 6,
+      "description": "Admire the Hungarian Parliament, relax in the thermal baths and try goulash."
+    },
+    {
+      "name": "Dublin",
+      "price": 1300,
+      "rating": 4.4,
+      "temperature": 12,
+      "duration": 4,
+      "description": "Visit the Guinness Storehouse, explore Dublin Castle and enjoy traditional Irish music."
+    },
+    {
+      "name": "Prague",
+      "price": 1100,
+      "rating": 4.7,
+      "temperature": 14,
+      "duration": 5,
+      "description": "Admire the Charles Bridge, visit Prague Castle and try Czech beer."
+    },
+    {
+      "name": "Amsterdam",
+      "price": 1500,
+      "rating": 4.5,
+      "temperature": 10,
+      "duration": 5,
+      "description": "Explore the canals, visit the Anne Frank House and experience the unique culture."
+    }
+]
