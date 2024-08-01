@@ -7,3 +7,78 @@
     text-decoration: none;
     user-select: none;
 }
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--principal-2);
+    gap: 1.8rem;
+    header{
+        width: 100%;
+        height: 9rem;
+        display: flex;
+        flex-direction: column;
+        padding: 0 .8rem;
+        justify-content: end;
+        gap: 1.8rem;
+        .title{
+            height: 1.5rem;
+            display: flex;
+            flex-direction: row;
+            justify-content: left;
+            align-items: center;
+            gap: 1rem;
+            .title-icon{
+                font-weight: 600;
+            }
+            .title-text{
+                font-size: 1.3rem;
+                font-weight: 700;
+                padding-bottom: 2px;
+            }
+        }
+        form{
+            height: 3rem;
+            background-color: var(--principal-3);
+            border-radius: 2rem;
+            box-shadow: 0 1px 50px rgba(90, 90, 90, 0.2);
+            overflow: hidden;
+            display: flex;
+            input[type="search"]{
+                width: calc(100% - 3rem);
+                height: 100%;
+                border: none;
+                outline: none;
+                padding: 1rem 1.25rem;
+                font-size: 1rem;
+                font-weight: 600;
+                color: var(--texto-8);
+            }
+            input[type="submit"]{
+                width: 3rem;
+                background: transparent;
+                border: none;
+                border-radius: 50%;
+                transition: ease .1s;
+            }
+            input[type="submit"]:hover{
+                font-size: 1.7rem;
+                background-color: var(--texto-6);
+            }
+        }
+        ::-webkit-search-cancel-button{
+            -webkit-appearance: none;
+        }
+    }
+    main{
+        height: 80%;
+        background-color: blue;
+        display: flex;
+        position: relative;
+    }
+    nav{
+        position: absolute;
+    }
+}
