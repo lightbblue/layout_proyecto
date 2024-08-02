@@ -74,9 +74,25 @@ body{
     }
     main{
         height: 80%;
-        background-color: blue;
         display: flex;
         position: relative;
+        padding: 0 1.8rem;
+        .types{
+            height: 4rem;
+            width: 100%;
+            display: flex;
+            gap: 1.5rem;
+            i{
+                height: 4rem;
+                width: 4rem;
+                background-color: var(--principal-3);
+                border-radius: 1.5rem;
+                box-shadow: 0 1px 50px rgba(90, 90, 90, 0.2);
+                display: grid;
+                place-items: center;
+                font-size: 1.5rem;
+            }
+        }
     }
     nav{
         position: absolute;
