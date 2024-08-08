@@ -6,19 +6,17 @@
     box-sizing: border-box;
     text-decoration: none;
     user-select: none;
+    font-family: "Montserrat", sans-serif;
 }
-
 ::-webkit-scrollbar {
     display: none;
 }
-
 body{
     width: 100vw;
     height: 100vh;
     display: flex;
     flex-direction: column;
 }
-
 header{
     height: 25rem;
     width: 100%;
@@ -56,5 +54,30 @@ header{
         bottom: -1.85rem;
         right: 3rem;
         box-shadow: 0 1px 5px rgba(90, 90, 90, 0.2);
+    }
+}
+main{
+    width: 100%;
+    height: calc(100% - 25rem);
+    .info{
+        width: 100%;
+        height: 7rem;
+        padding-left: 2rem;
+        padding-top: 1rem;
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        .title{
+            text-align: left;
+            font-size: 1.5rem;
+            font-weight: 700;
+        }
+        nav{
+            display: flex;
+            font-weight: 600;
+            gap: 2rem;
+            color: var(--texto-7);
+            text-decoration: none;
+        }
     }
 }
