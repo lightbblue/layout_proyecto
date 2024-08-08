@@ -1,0 +1,60 @@
+@import url(colors.css);
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    user-select: none;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header{
+    height: 25rem;
+    width: 100%;
+    border-radius: 0 0 2.5rem 2.5rem;
+    position: relative;
+    img{
+        object-fit: cover;
+        height: 100%;
+        width: 100%;
+        border-radius: 0 0 2.5rem 2.5rem;
+    }
+    .back{
+        height: 1.6rem;
+        width: 1.6rem;
+        border-radius: 50%;
+        font-size: 1.4rem;
+        display: grid;
+        place-items: center;
+        color: var(--principal-2);
+        position: absolute;
+        top: 1.5rem;
+        left: 1.5rem;
+        box-shadow: 0 0 50px rgba(90, 90, 90, 0.2);
+    }
+    .like{
+        background-color: white;
+        width: 3.7rem;
+        height: 3.7rem;
+        border-radius: 50%;
+        display: grid;
+        place-items: center;
+        font-size: 1.4rem;
+        color: var(--texto-7);
+        position: absolute;
+        bottom: -1.85rem;
+        right: 3rem;
+        box-shadow: 0 1px 5px rgba(90, 90, 90, 0.2);
+    }
+}
