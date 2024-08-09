@@ -12,7 +12,7 @@ fetch("../json/cities.json")
         container.innerHTML+=/*html*/`
         <header>
             <img src="${e.img}">
-                <a href="/html/main.html" class="fa-solid fa-circle-chevron-left back"></a>
+                <a href="./main.html" class="fa-solid fa-circle-chevron-left back"></a>
             <div class="like"><i class="fa-solid fa-heart"></i></div>
         </header>
         <main>
@@ -45,7 +45,7 @@ fetch("../json/cities.json")
                 <div class="totalPrice">Total Price</div>
                 <div class="price">$${e.price}</div>
             </div>
-            <a href="./html/main.html" class="der">Book Now</a>
+            <a href="./main.html" class="der">Book Now</a>
         </footer>
         </div>
         <script src="../js/city.js"></script>
