@@ -76,8 +76,90 @@ main{
             display: flex;
             font-weight: 600;
             gap: 2rem;
-            color: var(--texto-7);
-            text-decoration: none;
+            a{
+                color: var(--texto-10);
+                text-decoration: none;
+            }
+            .selected{
+                color: var(--principal-1);
+                pointer-events: none;
+            }
         }
     }
+    .info2{
+        width: 100%;
+        height: 5rem;
+        display: flex;
+        justify-content: space-between;
+        padding: 0 2rem;
+        .elem{
+            flex: 0 0 5.5rem;
+            display: flex;
+            flex-direction: column;
+            .icon{
+                font-size: 1.2rem;
+                display: flex;
+                gap: .7rem;
+                align-items: center;
+                .dato{
+                    font-weight: 600;
+                }
+            }
+            .tipo{
+                font-weight: 500;
+                color: var(--texto-7);
+                margin-left: 2rem;
+            }
+        }
+    }
+    .desc{
+        padding: 0 2rem;
+        text-align: justify;
+    }
+}
+footer{
+    width: 100%;
+    height: 9rem;
+    background-color: var(--principal-1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+    .izq{
+        font-weight: 600;
+        color: var(--texto-1);
+        display: flex;
+        flex-direction: column;
+        gap: .2rem;
+        .price{
+            font-size: 1.8rem;
+        }
+    }
+    .der{
+        width: 10rem;
+        height: 3.15rem;
+        border-radius: 2rem;
+        display: grid;
+        place-items: center;
+        background-color: var(--principal-2);
+        font-weight: 500;
+        font-size: 1.2rem;
+        color: var(--texto-2);
+        transition: all .2s;
+    }
+    .der:hover{
+        scale: 1.03;
+    }
+}
+.amarillo{
+    color: var(--texto-9);
+}
+.celeste{
+    color: var(--texto-6);
+}
+.naranja{
+    color: var(--texto-9);
+}
+.rojo{
+    color: var(red);
 }
