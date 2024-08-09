@@ -12,7 +12,7 @@ fetch("../json/cities.json")
         (e.id<7)?
         container.innerHTML+=/*html*/`
         <a class="card" href="./city.html" id="${e.name}" onclick="guardar(id)">
-            <img class="card-img" src="${e.img}" alt="${e.name}">
+            <img class="card-img" src="..${e.img}" alt="${e.name}">
             <div class="card-info">
                 <div class="name">${e.name}</div>
                 <div class="price">$${e.price}</div>
