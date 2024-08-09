@@ -45,7 +45,7 @@ fetch("../json/cities.json")
                 <div class="totalPrice">Total Price</div>
                 <div class="price">$${e.price}</div>
             </div>
-            <a href="/html/main.html" class="der">Book Now</a>
+            <a href="./html/main.html" class="der">Book Now</a>
         </footer>
         </div>
         <script src="../js/city.js"></script>
