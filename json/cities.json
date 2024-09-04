@@ -7,7 +7,45 @@
       "temperature": 16,
       "duration": 5,
       "description": "Historic city with a rich culture. Visit the iconic Big Ben, explore Buckingham Palace, and enjoy the multicultural cuisine.",
-      "img": "../img/london.jpg"
+      "img": "../img/london.jpg",
+      "reviews": [
+          {
+              "name": "Augustus Primero (≧ω≦)",
+              "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+              "description": "Horrible lugar, roban mucho",
+              "stars": 1
+          },
+          {
+              "name": "Augustus Segundo",
+              "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+              "description": "No voy a volver",
+              "stars": 2
+          },
+          {
+              "name": "Augustus Tercero",
+              "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+              "description": "No esta tan mal",
+              "stars": 4
+          },
+          {
+            "name": "Augustus Primero (≧ω≦)",
+            "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+            "description": "Horrible lugar, roban mucho",
+            "stars": 1
+        },
+        {
+            "name": "Augustus Segundo",
+            "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+            "description": "No voy a volver",
+            "stars": 2
+        },
+        {
+            "name": "Augustus Tercero",
+            "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+            "description": "No esta tan mal",
+            "stars": 4
+        }
+      ]
     },
     {
       "id": 2,
@@ -17,7 +55,45 @@
       "temperature": 18,
       "duration": 7,
       "description": "The City of Love awaits with the Eiffel Tower, the Louvre, and delicious croissants.",
-      "img": "../img/paris.jpg"
+      "img": "../img/paris.jpg",
+      "reviews": [
+          {
+              "name": "Augustus Primero (≧ω≦)",
+              "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+              "description": "Horrible lugar, roban mucho",
+              "stars": 1
+          },
+          {
+              "name": "Augustus Segundo",
+              "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+              "description": "No voy a volver",
+              "stars": 2
+          },
+          {
+              "name": "Augustus Tercero",
+              "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+              "description": "No esta tan mal",
+              "stars": 4
+          },
+          {
+            "name": "Augustus Primero (≧ω≦)",
+            "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+            "description": "Horrible lugar, roban mucho",
+            "stars": 1
+        },
+        {
+            "name": "Augustus Segundo",
+            "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+            "description": "No voy a volver",
+            "stars": 2
+        },
+        {
+            "name": "Augustus Tercero",
+            "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+            "description": "No esta tan mal",
+            "stars": 4
+        }
+      ]
     },
     {
       "id": 3,
@@ -27,7 +103,45 @@
       "temperature": 22,
       "duration": 6,
       "description": "Explore the Colosseum, the Trevi Fountain, and delight in pasta and pizza.",
-      "img": "../img/rome.jpg"
+      "img": "../img/rome.jpg",
+      "reviews": [
+          {
+              "name": "Augustus Primero (≧ω≦)",
+              "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+              "description": "Horrible lugar, roban mucho",
+              "stars": 1
+          },
+          {
+              "name": "Augustus Segundo",
+              "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+              "description": "No voy a volver",
+              "stars": 2
+          },
+          {
+              "name": "Augustus Tercero",
+              "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+              "description": "No esta tan mal",
+              "stars": 4
+          },
+          {
+            "name": "Augustus Primero (≧ω≦)",
+            "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+            "description": "Horrible lugar, roban mucho",
+            "stars": 1
+        },
+        {
+            "name": "Augustus Segundo",
+            "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+            "description": "No voy a volver",
+            "stars": 2
+        },
+        {
+            "name": "Augustus Tercero",
+            "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+            "description": "No esta tan mal",
+            "stars": 4
+        }
+      ]
     },
     {
       "id": 4,
@@ -37,7 +151,45 @@
       "temperature": 10,
       "duration": 8,
       "description": "The city that never sleeps offers Times Square, the Statue of Liberty, and a vibrant nightlife.",
-      "img": "../img/nyc.jpg"
+      "img": "../img/nyc.jpg",
+      "reviews": [
+          {
+              "name": "Augustus Primero (≧ω≦)",
+              "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+              "description": "Horrible lugar, roban mucho",
+              "stars": 1
+          },
+          {
+              "name": "Augustus Segundo",
+              "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+              "description": "No voy a volver",
+              "stars": 2
+          },
+          {
+              "name": "Augustus Tercero",
+              "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+              "description": "No esta tan mal",
+              "stars": 4
+          },
+          {
+            "name": "Augustus Primero (≧ω≦)",
+            "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+            "description": "Horrible lugar, roban mucho",
+            "stars": 1
+        },
+        {
+            "name": "Augustus Segundo",
+            "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+            "description": "No voy a volver",
+            "stars": 2
+        },
+        {
+            "name": "Augustus Tercero",
+            "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+            "description": "No esta tan mal",
+            "stars": 4
+        }
+      ]
     },
     {
       "id": 5,
@@ -47,7 +199,45 @@
       "temperature": 25,
       "duration": 10,
       "description": "Immerse yourself in Japanese culture, visit the Meiji Shrine and try sushi.",
-      "img": "../img/tokyo.jpg"
+      "img": "../img/tokyo.jpg",
+      "reviews": [
+          {
+              "name": "Augustus Primero (≧ω≦)",
+              "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+              "description": "Horrible lugar, roban mucho",
+              "stars": 1
+          },
+          {
+              "name": "Augustus Segundo",
+              "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+              "description": "No voy a volver",
+              "stars": 2
+          },
+          {
+              "name": "Augustus Tercero",
+              "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+              "description": "No esta tan mal",
+              "stars": 4
+          },
+          {
+            "name": "Augustus Primero (≧ω≦)",
+            "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+            "description": "Horrible lugar, roban mucho",
+            "stars": 1
+        },
+        {
+            "name": "Augustus Segundo",
+            "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+            "description": "No voy a volver",
+            "stars": 2
+        },
+        {
+            "name": "Augustus Tercero",
+            "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+            "description": "No esta tan mal",
+            "stars": 4
+        }
+      ]
     },
     {
       "id": 6,
@@ -57,7 +247,45 @@
       "temperature": 20,
       "duration": 4,
       "description": "Enjoy Gaudí's architecture, relax on Barceloneta beach and try paella.",
-      "img": "../img/barcelona.jpg"
+      "img": "../img/barcelona.jpg",
+      "reviews": [
+          {
+              "name": "Augustus Primero (≧ω≦)",
+              "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+              "description": "Horrible lugar, roban mucho",
+              "stars": 1
+          },
+          {
+              "name": "Augustus Segundo",
+              "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+              "description": "No voy a volver",
+              "stars": 2
+          },
+          {
+              "name": "Augustus Tercero",
+              "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+              "description": "No esta tan mal",
+              "stars": 4
+          },
+          {
+            "name": "Augustus Primero (≧ω≦)",
+            "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+            "description": "Horrible lugar, roban mucho",
+            "stars": 1
+        },
+        {
+            "name": "Augustus Segundo",
+            "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+            "description": "No voy a volver",
+            "stars": 2
+        },
+        {
+            "name": "Augustus Tercero",
+            "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+            "description": "No esta tan mal",
+            "stars": 4
+        }
+      ]
     },
     {
       "id": 7,
@@ -67,7 +295,45 @@
       "temperature": 22,
       "duration": 9,
       "description": "Visit the Sydney Opera House, explore the harbour and enjoy the beaches.",
-      "img": "../img/sydney.jpg"
+      "img": "../img/sydney.jpg",
+      "reviews": [
+          {
+              "name": "Augustus Primero (≧ω≦)",
+              "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+              "description": "Horrible lugar, roban mucho",
+              "stars": 1
+          },
+          {
+              "name": "Augustus Segundo",
+              "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+              "description": "No voy a volver",
+              "stars": 2
+          },
+          {
+              "name": "Augustus Tercero",
+              "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+              "description": "No esta tan mal",
+              "stars": 4
+          },
+          {
+            "name": "Augustus Primero (≧ω≦)",
+            "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+            "description": "Horrible lugar, roban mucho",
+            "stars": 1
+        },
+        {
+            "name": "Augustus Segundo",
+            "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+            "description": "No voy a volver",
+            "stars": 2
+        },
+        {
+            "name": "Augustus Tercero",
+            "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+            "description": "No esta tan mal",
+            "stars": 4
+        }
+      ]
     },
     {
       "id": 8,
@@ -77,7 +343,45 @@
       "temperature": 28,
       "duration": 7,
       "description": "Enjoy Carnival, visit Christ the Redeemer and relax on Copacabana and Ipanema beaches.",
-      "img": "../img/riodejaneiro.jpg"
+      "img": "../img/riodejaneiro.jpg",
+      "reviews": [
+          {
+              "name": "Augustus Primero (≧ω≦)",
+              "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+              "description": "Horrible lugar, roban mucho",
+              "stars": 1
+          },
+          {
+              "name": "Augustus Segundo",
+              "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+              "description": "No voy a volver",
+              "stars": 2
+          },
+          {
+              "name": "Augustus Tercero",
+              "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+              "description": "No esta tan mal",
+              "stars": 4
+          },
+          {
+            "name": "Augustus Primero (≧ω≦)",
+            "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+            "description": "Horrible lugar, roban mucho",
+            "stars": 1
+        },
+        {
+            "name": "Augustus Segundo",
+            "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+            "description": "No voy a volver",
+            "stars": 2
+        },
+        {
+            "name": "Augustus Tercero",
+            "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+            "description": "No esta tan mal",
+            "stars": 4
+        }
+      ]
     },
     {
       "id": 9,
@@ -87,7 +391,45 @@
       "temperature": 25,
       "duration": 5,
       "description": "Explore the Medina, visit the Koutoubia Mosque and try tagine.",
-      "img": "../img/marrakech.jpg"
+      "img": "../img/marrakech.jpg",
+      "reviews": [
+          {
+              "name": "Augustus Primero (≧ω≦)",
+              "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+              "description": "Horrible lugar, roban mucho",
+              "stars": 1
+          },
+          {
+              "name": "Augustus Segundo",
+              "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+              "description": "No voy a volver",
+              "stars": 2
+          },
+          {
+              "name": "Augustus Tercero",
+              "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+              "description": "No esta tan mal",
+              "stars": 4
+          },
+          {
+            "name": "Augustus Primero (≧ω≦)",
+            "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+            "description": "Horrible lugar, roban mucho",
+            "stars": 1
+        },
+        {
+            "name": "Augustus Segundo",
+            "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+            "description": "No voy a volver",
+            "stars": 2
+        },
+        {
+            "name": "Augustus Tercero",
+            "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+            "description": "No esta tan mal",
+            "stars": 4
+        }
+      ]
     },
     {
       "id": 10,
@@ -97,7 +439,45 @@
       "temperature": 15,
       "duration": 6,
       "description": "Admire the Hungarian Parliament, relax in the thermal baths and try goulash.",
-      "img": "../img/budapest.jpg"
+      "img": "../img/budapest.jpg",
+      "reviews": [
+          {
+              "name": "Augustus Primero (≧ω≦)",
+              "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+              "description": "Horrible lugar, roban mucho",
+              "stars": 1
+          },
+          {
+              "name": "Augustus Segundo",
+              "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+              "description": "No voy a volver",
+              "stars": 2
+          },
+          {
+              "name": "Augustus Tercero",
+              "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+              "description": "No esta tan mal",
+              "stars": 4
+          },
+          {
+            "name": "Augustus Primero (≧ω≦)",
+            "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+            "description": "Horrible lugar, roban mucho",
+            "stars": 1
+        },
+        {
+            "name": "Augustus Segundo",
+            "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+            "description": "No voy a volver",
+            "stars": 2
+        },
+        {
+            "name": "Augustus Tercero",
+            "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+            "description": "No esta tan mal",
+            "stars": 4
+        }
+      ]
     },
     {
       "id": 11,
@@ -107,7 +487,45 @@
       "temperature": 12,
       "duration": 4,
       "description": "Visit the Guinness Storehouse, explore Dublin Castle and enjoy traditional Irish music.",
-      "img": "../img/dublin.jpg"
+      "img": "../img/dublin.jpg",
+      "reviews": [
+          {
+              "name": "Augustus Primero (≧ω≦)",
+              "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+              "description": "Horrible lugar, roban mucho",
+              "stars": 1
+          },
+          {
+              "name": "Augustus Segundo",
+              "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+              "description": "No voy a volver",
+              "stars": 2
+          },
+          {
+              "name": "Augustus Tercero",
+              "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+              "description": "No esta tan mal",
+              "stars": 4
+          },
+          {
+            "name": "Augustus Primero (≧ω≦)",
+            "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+            "description": "Horrible lugar, roban mucho",
+            "stars": 1
+        },
+        {
+            "name": "Augustus Segundo",
+            "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+            "description": "No voy a volver",
+            "stars": 2
+        },
+        {
+            "name": "Augustus Tercero",
+            "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+            "description": "No esta tan mal",
+            "stars": 4
+        }
+      ]
     },
     {
       "id": 12,
@@ -117,7 +535,45 @@
       "temperature": 14,
       "duration": 5,
       "description": "Admire the Charles Bridge, visit Prague Castle and try Czech beer.",
-      "img": "../img/prague.jpg"
+      "img": "../img/prague.jpg",
+      "reviews": [
+          {
+              "name": "Augustus Primero (≧ω≦)",
+              "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+              "description": "Horrible lugar, roban mucho",
+              "stars": 1
+          },
+          {
+              "name": "Augustus Segundo",
+              "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+              "description": "No voy a volver",
+              "stars": 2
+          },
+          {
+              "name": "Augustus Tercero",
+              "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+              "description": "No esta tan mal",
+              "stars": 4
+          },
+          {
+            "name": "Augustus Primero (≧ω≦)",
+            "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+            "description": "Horrible lugar, roban mucho",
+            "stars": 1
+        },
+        {
+            "name": "Augustus Segundo",
+            "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+            "description": "No voy a volver",
+            "stars": 2
+        },
+        {
+            "name": "Augustus Tercero",
+            "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+            "description": "No esta tan mal",
+            "stars": 4
+        }
+      ]
     },
     {
       "id": 13,
@@ -127,6 +583,44 @@
       "temperature": 10,
       "duration": 5,
       "description": "Explore the canals, visit the Anne Frank House and experience the unique culture.",
-      "img": "../img/amsterdam.jpeg"
+      "img": "../img/amsterdam.jpeg",
+      "reviews": [
+          {
+              "name": "Augustus Primero (≧ω≦)",
+              "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+              "description": "Horrible lugar, roban mucho",
+              "stars": 1
+          },
+          {
+              "name": "Augustus Segundo",
+              "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+              "description": "No voy a volver",
+              "stars": 2
+          },
+          {
+              "name": "Augustus Tercero",
+              "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+              "description": "No esta tan mal",
+              "stars": 4
+          },
+          {
+            "name": "Augustus Primero (≧ω≦)",
+            "user_img" : "https://randomuser.me/api/portraits/men/13.jpg",
+            "description": "Horrible lugar, roban mucho",
+            "stars": 1
+        },
+        {
+            "name": "Augustus Segundo",
+            "user_img" : "https://randomuser.me/api/portraits/men/12.jpg",
+            "description": "No voy a volver",
+            "stars": 2
+        },
+        {
+            "name": "Augustus Tercero",
+            "user_img" : "https://randomuser.me/api/portraits/men/11.jpg",
+            "description": "No esta tan mal",
+            "stars": 4
+        }
+      ]
     }
 ]
