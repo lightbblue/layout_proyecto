@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "username": "johndoe",
+        "name": "John",
+        "surname": "Doe",
+        "email": "johndoe@gmail.com",
+        "avatar": "https://npr.brightspotcdn.com/dims4/default/61572f7/2147483647/strip/true/crop/200x200+0+0/resize/880x880!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fprograms%2Fwesun%2Fdoe%2Fdoe200x200-99caf71181e7f5184c94d71d6dbc64f2c9f99b0b.jpg"
+    },
+    {
+        "id": 2,
+        "username": "gigachad",
+        "name": "Ernest",
+        "surname": "Khalimov",
+        "email": "gigachad@gmail.com",
+        "avatar": "https://static2.strzelce360.pl/data/articles/xga-1x1-ernest-khalimov-czy-istnieje-kto-to-wiek-wzrost-waga-wikipedia-1669905523.webp"
+    }
+]

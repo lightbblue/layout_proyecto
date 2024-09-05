@@ -23,6 +23,7 @@ header{
             width: 4rem;
             border-radius: 50%;
             box-shadow: 1px 1px 5px var(--difuminado);
+            object-fit: cover;
         }
         .mid{
             height: 100%;
