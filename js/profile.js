@@ -1,5 +1,5 @@
-// let local = localStorage.getItem("user");
-let local = "";
+let local = localStorage.getItem("user");
+// let local = 2;
 let body = document.querySelector("body");
 
 fetch("../json/users.json")
@@ -9,7 +9,17 @@ fetch("../json/users.json")
     .then(data =>{
         data.forEach(e=>{
             if(!local){ 
-                body.innerHTML=/*html*/`<nav>
+                body.innerHTML=/*html*/`<div class="container">
+                    <div class="login-title">Login</div>
+                    <form class="form" action="profile.html">
+                        <label>Email:</label>
+                        <input type="email" id="email" required>
+                        <label>Password:</label>
+                        <input type="password" id="password" required>
+                        <input type="submit" value="Login">
+                    </form>
+                </div>
+                <nav>
                     <a class="button" href="main.html"><i class="fa-solid fa-house"></i></a>
                     <a class="button" href=""><i class="fa-solid fa-briefcase"></i></a>
                     <a class="button" href=""><i  class="fa-solid fa-bell"></i></a>
